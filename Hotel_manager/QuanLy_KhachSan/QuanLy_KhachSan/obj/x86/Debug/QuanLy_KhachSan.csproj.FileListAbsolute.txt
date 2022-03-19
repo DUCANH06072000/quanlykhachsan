@@ -1,0 +1,61 @@
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\bin\Debug\QuanLy_KhachSan.exe
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\bin\Debug\QuanLy_KhachSan.pdb
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.Properties.Resources.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.csproj.GenerateResource.Cache
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.exe
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.pdb
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.dangnhap.Login.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.Home.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.Main_chinh.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.dangnhap.Registration.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Account_Manager.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.dangnhap.Repass.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Staff_manager.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Customer_Manager.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Room_manager.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Warehouse_Manager.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Phuthu_Manager.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.timkiem.Search_nhanvien.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly_dat_thue_phong.Dat_phong.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly_dat_thue_phong.Thue_phong.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly_dat_thue_phong.Tra_phong.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.csprojResolveAssemblyReference.cache
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.timkiem.Search_khachhang.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.timkiem.Search_phong.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.timkiem.Search_kho.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Kindofroom_Manager.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.Thongke.ThongKe_DoanhThu.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.hoadon.nhap_kho.resources
+C:\Users\T\Desktop\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.Thongke.thongke_hoadon_kho.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.csproj.AssemblyReference.cache
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.dangnhap.Login.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.dangnhap.Registration.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.dangnhap.Repass.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.hoadon.nhap_kho.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.Home.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.Main_chinh.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.Properties.Resources.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Account_Manager.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Customer_Manager.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Kindofroom_Manager.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Phuthu_Manager.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Room_manager.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Staff_manager.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly.Warehouse_Manager.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly_dat_thue_phong.Dat_phong.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly_dat_thue_phong.Thue_phong.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.quanly_dat_thue_phong.Tra_phong.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.Thongke.ThongKe_DoanhThu.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.Thongke.thongke_hoadon_kho.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.timkiem.Search_khachhang.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.timkiem.Search_kho.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.timkiem.Search_nhanvien.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.timkiem.Search_phong.resources
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.csproj.GenerateResource.cache
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.exe
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.pdb
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\bin\Debug\QuanLy_KhachSan.exe
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\bin\Debug\QuanLy_KhachSan.pdb
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\obj\x86\Debug\QuanLy_KhachSan.csproj.ResolveComReference.cache
+C:\Users\Phong Vu\Desktop\Hotel_manager\Hotel_manager\QuanLy_KhachSan\QuanLy_KhachSan\bin\Debug\QuanLy_KhachSan.exe.config
